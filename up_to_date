@@ -1,1 +1,1 @@
-git checkout main\ngit pull origin main
+git pull origin master
